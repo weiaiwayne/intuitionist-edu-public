@@ -1,0 +1,20 @@
+IntuitionEDU public repository — license scope
+
+Copyright (c) 2026 IntuitionEDU contributors.
+
+1. Original code included in tools/ is licensed under the MIT License, reproduced
+   in LICENSES/MIT.txt. No private operational code is licensed by this notice.
+
+2. Original prose documentation, citation metadata, and diagrams in this public
+   repository are licensed under the Creative Commons Attribution 4.0 International
+   License (CC BY 4.0). The legal code is reproduced in LICENSES/CC-BY-4.0.txt.
+   Canonical license: https://creativecommons.org/licenses/by/4.0/
+
+3. Names, logos and trademarks of third parties, and all external dependencies,
+   remain subject to their own rights and licenses. No third-party code, research
+   data or manuscript is redistributed in this release.
+
+4. These grants apply only to materials actually included in this public repository.
+   They do not cover private development repositories or materials merely linked here.
+
+Machine-readable file inventory and license identifiers: release-manifest.json.

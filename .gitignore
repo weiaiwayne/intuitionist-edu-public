@@ -1,0 +1,18 @@
+# Keep runtime material out of this documentation repository.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.sqlite
+*.db
+*.log
+*.jsonl
+__pycache__/
+.venv/
+node_modules/
+private/
+raw-data/
+checkpoints/
+.DS_Store

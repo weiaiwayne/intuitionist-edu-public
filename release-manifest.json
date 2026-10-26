@@ -1,0 +1,150 @@
+{
+  "scope": "framework-and-tech-stack-only",
+  "repository": "https://github.com/weiaiwayne/intuitionist-edu-public",
+  "files": {
+    ".gitignore": {
+      "sha256": "a34d54bfe85a661f742c1c32d65453281ad0f9d00c7e9bf2198a4c67fdea18dc",
+      "bytes": 210,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "CHANGELOG.md": {
+      "sha256": "4f27fb133209872aca8e7274ad625b87677c4f4fef5783bc5d036c8d94264deb",
+      "bytes": 781,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "CITATION.cff": {
+      "sha256": "1358623beaf3a3b46e9c4c856f2d09925741164e5c319fe6207fcab9bbd214ad",
+      "bytes": 706,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "CITATION.md": {
+      "sha256": "93b509db9dd5dedfa62096ad4302fb14686a3ae194c20a80f442039b38896e91",
+      "bytes": 1035,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "CONTRIBUTING.md": {
+      "sha256": "c70b75f08edebf943509d0bc373008b7820c94c05e29a350bc58b07020d93279",
+      "bytes": 1035,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "LICENSE": {
+      "sha256": "e75727892a9baafc51078e4c20a374627824cb1f1251b26606bbf49c6b9fa6dc",
+      "bytes": 1044,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "LICENSES/CC-BY-4.0.txt": {
+      "sha256": "d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744",
+      "bytes": 17023,
+      "license": "License text or license notice; see root LICENSE",
+      "origin": "license-text-or-notice"
+    },
+    "LICENSES/MIT.txt": {
+      "sha256": "a8ff982417ae812c2a5d3e70c0602e15f8545234d27a8a8e7cf2d80b59cffe7d",
+      "bytes": 1082,
+      "license": "License text or license notice; see root LICENSE",
+      "origin": "license-text-or-notice"
+    },
+    "LICENSES/README.md": {
+      "sha256": "eaabb696cb9f5358968f37fc934437696880874ba08a2a6c0dd297631f44d60c",
+      "bytes": 626,
+      "license": "License text or license notice; see root LICENSE",
+      "origin": "license-text-or-notice"
+    },
+    "README.md": {
+      "sha256": "cb6fff69e6796459b4e04bad0376a72b04b54c18db5ccd5be12e8f1383192af6",
+      "bytes": 3017,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "SECURITY.md": {
+      "sha256": "b0888947fd38769ffc1e9837591ccc27b21a7ccc2e4555fec4213249afcd6b9a",
+      "bytes": 590,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "sha256": "3643b0fc12386cded854adb9c1bb0d6b723b16179b98e73808bf8bd7ccf9da60",
+      "bytes": 899,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "assets/framework.svg": {
+      "sha256": "4fc0b365e71d65703ba0aadab9e6c819a8d0c24f38341e192556c09fa97d27ad",
+      "bytes": 2710,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "docs/architecture.md": {
+      "sha256": "0e68c839a09e85053a42af2b24cd4500d42d740cc6a7dfef5af78c254506eac5",
+      "bytes": 2367,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "docs/conceptual-framework.md": {
+      "sha256": "f2294bac91c919ee65bcc2c693ad83ed7eb570f77a88573b93165412ba5525a1",
+      "bytes": 2002,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "docs/evaluation.md": {
+      "sha256": "6dae30a048242d2b20000a41afb6420ed19a83871cf0cfa1d4fc76205490def8",
+      "bytes": 3720,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "docs/memory-and-learning.md": {
+      "sha256": "e0d380e073ba3831c5090313fa07938412aee2664e46b7f3da969e00239b75bc",
+      "bytes": 2304,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "docs/overview.md": {
+      "sha256": "d59daaa73c75dd655e915753aa9b8fafef4cd808dbe27f837a6f1b869eb83b5f",
+      "bytes": 1969,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "docs/release-scope.md": {
+      "sha256": "6cffe103262988124dcc09ad9d0f28e38fb73b5c031098187aa825638ec050d1",
+      "bytes": 1663,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "docs/reproducibility.md": {
+      "sha256": "27c2b9efe4d1bbf1517bbff76f19388d1ab8d4aaebaa71fdbb7641d612861209",
+      "bytes": 1790,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "docs/status.md": {
+      "sha256": "50c3ae3cf348617d54b1951d8c2f5e4648d690427f78b8e382f25a491044fb2f",
+      "bytes": 1412,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "docs/tech-stack.md": {
+      "sha256": "a9b8e7270d88ab0102f55751c48ccc7f5727319f17e47cfa9526f6731ec488f4",
+      "bytes": 3036,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "docs/workflow.md": {
+      "sha256": "bb5947bf856df12e211bd58706e378e26805f6e1dc3c6dfb2b5571481483db5c",
+      "bytes": 2124,
+      "license": "CC-BY-4.0",
+      "origin": "new-public-material"
+    },
+    "tools/check_release.py": {
+      "sha256": "d949a4e956218ad68f4060b858cf618957d6cf8f97249533079cf6ce5c41813c",
+      "bytes": 2707,
+      "license": "MIT",
+      "origin": "new-public-material"
+    }
+  }
+}

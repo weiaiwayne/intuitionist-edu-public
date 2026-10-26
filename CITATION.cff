@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the public framework documentation and identify the commit or release used."
+type: software
+title: "IntuitionEDU: A framework for human-directed agent teams in teaching and research"
+authors:
+  - name: "IntuitionEDU project"
+date-released: "2026-10-26"
+repository-code: "https://github.com/weiaiwayne/intuitionist-edu-public"
+url: "https://github.com/weiaiwayne/intuitionist-edu-public"
+abstract: "Public framework and tech-stack documentation. This release does not distribute the private runtime, empirical results or study data."
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - human-agent collaboration
+  - research workflows
+  - education
+  - multi-agent systems
